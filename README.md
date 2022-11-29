@@ -1,4 +1,6 @@
-# DATA FINANCE - TEACTJS + TYPESCRIPT
+# DATA FINANCE 
+
+- REACTJS + TYPESCRIPT
 ### `yarn start`
 
 Runs the app in the development mode.\
