@@ -1,6 +1,10 @@
 # DATA FINANCE 
 
-- REACTJS + TYPESCRIPT
+- Technologies udes:
+- REACTJS 
+-react-typed
+- Tailwind
+
 ### `yarn start`
 
 Runs the app in the development mode.\
