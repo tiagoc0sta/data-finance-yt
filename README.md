@@ -1,31 +1,49 @@
-# DATA FINANCE 
 
-- Technologies udes:
+# Company WebSite - React JS & Tailwind CSS Responsive Website 
+
+
+
+Technologies used:
+
 - REACTJS 
 - react-typed dependency (animation)
 - Tailwind
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Acknowledgements
 
-### 
+ - [ Figma Project - link here ](https://www.youtube.com/watch?v=AAXYX4LH6Bc&t=298s)
+ 
+- To run:
+
+- yarn start / yarn build  
+
+
+
+ 
+
+
+## Authors
+
+- [ Code Commerce - link here ](https://www.youtube.com/watch?v=ZU-drSVodBw&t=68s)
+ 
+
+
+
+
+
+## Demo
+
+- [Online app (Netlify) - click here](https://calm-figolla-6050aa.netlify.app/)
+
+![image](https://user-images.githubusercontent.com/63982700/205425630-cb60f4f5-c38b-4353-9ad4-1357e1336512.png)
+![image](https://user-images.githubusercontent.com/63982700/205425758-23cc173a-ed7f-4be3-923f-42f99c602533.png)
+![image](https://user-images.githubusercontent.com/63982700/205425772-2acfc8dc-acab-423c-981e-7c069b9751e9.png)
+![image](https://user-images.githubusercontent.com/63982700/205425807-a49d8979-981f-4783-aa90-35eeddc68d75.png)
