@@ -2,7 +2,7 @@
 
 - Technologies udes:
 - REACTJS 
--react-typed
+- react-typed dependency (animation)
 - Tailwind
 
 ### `yarn start`
